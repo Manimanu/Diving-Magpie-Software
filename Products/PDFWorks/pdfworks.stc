@@ -1,4 +1,0 @@
-[General]
-Target=PDFWorks - Win32 DebugUNICODE
-[Instrumentation]
-Inlines=Yes

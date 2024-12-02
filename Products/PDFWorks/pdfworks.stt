@@ -1,5 +1,0 @@
-[Directories]
-Target=.\TrueTime
-Intermediates=.\TrueTime
-[Instrumentation]
-Inlines=Yes
